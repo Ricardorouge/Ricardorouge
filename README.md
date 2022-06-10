@@ -3,14 +3,14 @@ Ricardorouge/Ricardorouge is a ✨ special ✨ repository because its `README.md
 You can click the Preview link to take a look at your changes.
 --->
 <h1 align="center">Hi 👋, I'm Ricardo!</h1>
-<h3 align="center">Full Stack Web Developer in training</h3>
+<h3 align="center">Full Stack Web Developer | Software Engineer  </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ricardorouge&label=Profile%20views&color=0e75b6&style=flat" alt="ricardorouge" /> </p>
 
 
-- 👋 Hi, I’m @Ricardorouge
 - 👀 I’m interested in gaming, traveling, sports, and amazing food
 - 🌱 I’m currently learning full stack web development
+- 💥 I am excited to explore the world of Software Development and bring my ideas to life! 
 - ⚡ Fun fact **David Ortiz has been over my house for dinner**
 
 <h3 align="left">Connect with me:</h3>
